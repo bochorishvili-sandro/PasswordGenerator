@@ -21,24 +21,15 @@ namespace HelloWorld
                
                 alphabet.Add(((char)i).ToString());
             }
-
-
             string password = string.Empty;
             Random rnd = new Random();
-        
-            
-            
+    
                 password = string.Empty;
                 for (int i = 0; i < 6; i++)
                 {
                     password += alphabet[rnd.Next(0, alphabet.Count)];
                 
             }
-
-               
-
-
-            
             Console.WriteLine(password);
            
         }
