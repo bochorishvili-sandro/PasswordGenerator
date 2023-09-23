@@ -1,0 +1,15 @@
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\bin\Debug\net6.0\PaswordGenerator.exe
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\bin\Debug\net6.0\PaswordGenerator.deps.json
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\bin\Debug\net6.0\PaswordGenerator.runtimeconfig.json
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\bin\Debug\net6.0\PaswordGenerator.dll
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\bin\Debug\net6.0\PaswordGenerator.pdb
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\obj\Debug\net6.0\PaswordGenerator.csproj.AssemblyReference.cache
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\obj\Debug\net6.0\PaswordGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\obj\Debug\net6.0\PaswordGenerator.AssemblyInfoInputs.cache
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\obj\Debug\net6.0\PaswordGenerator.AssemblyInfo.cs
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\obj\Debug\net6.0\PaswordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\obj\Debug\net6.0\PaswordGenerator.dll
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\obj\Debug\net6.0\refint\PaswordGenerator.dll
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\obj\Debug\net6.0\PaswordGenerator.pdb
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\obj\Debug\net6.0\PaswordGenerator.genruntimeconfig.cache
+C:\Users\GIA\source\repos\PaswordGenerator\PaswordGenerator\obj\Debug\net6.0\ref\PaswordGenerator.dll
